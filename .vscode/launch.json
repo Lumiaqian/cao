@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueBaseStack",
+            "request": "launch",
+            "mainClass": "QueueBaseStack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stack",
+            "request": "launch",
+            "mainClass": "Stack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkNodeStack",
+            "request": "launch",
+            "mainClass": "LinkNodeStack"
+        }
+    ]
+}
