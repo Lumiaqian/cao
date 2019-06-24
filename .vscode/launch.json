@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sort",
+            "request": "launch",
+            "mainClass": "Sort"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QueueBaseStack",
             "request": "launch",
             "mainClass": "QueueBaseStack"
